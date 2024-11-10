@@ -3,5 +3,8 @@ public class Main{
          System.out.println("hiii Ravikiran this side....!");
          System.out.println("symbiosis institute .......................!");
          System.out.println("hii anybody can recgnize me who was in my class");
+
+         Student st = new Student();
+         st.sayHello();
 }
 }
